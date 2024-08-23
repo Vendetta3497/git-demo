@@ -1,0 +1,20 @@
+[
+   {
+      "id": 1,
+      "icon": "sport",
+      "name": "Gym",
+      "target": 10,
+      "days": [
+         { "comment": "first time is always difficult" },
+         { "comment": "second day is easier" }
+      ]
+   },
+   {
+      "id": 2,
+      "icon": "food",
+      "name": "Healthy food",
+      "target": 10,
+      "days": [{ "comment": "Great!" }]
+   }
+]
+
